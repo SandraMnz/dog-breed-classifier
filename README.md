@@ -1,7 +1,7 @@
 # Dog breed classifier
-This is a repo for a project in Deep Learning udacity Nanodegree
+This is a repo for a project in Deep Learning udacity Nanodegree.
 
-Pytorch library is used
+Pytorch library is used.
 
 ## Project Overview
 
